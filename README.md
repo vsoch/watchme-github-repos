@@ -143,8 +143,11 @@ You can export data as follows:
 mkdir -p data
 for repo in expfactory spack sregistry vsoch-scif singularity spython sregistry-cli
    do
-       watchme export task-$repo result.json --out data/$repo.json
+       watchme export github-repos task-$repo result.json --out data/$repo.json --json --force
    done
 ```
+
+If you do this for the first time, you don't need `--force`. For subsequent times you will
+need it to overwrite the previous data.
 
 
