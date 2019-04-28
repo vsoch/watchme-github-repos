@@ -66,27 +66,27 @@
         "releases_url": "https://api.github.com/repos/spack/spack/releases{/id}",
         "deployments_url": "https://api.github.com/repos/spack/spack/deployments",
         "created_at": "2014-01-08T09:22:12Z",
-        "updated_at": "2019-04-25T03:44:49Z",
-        "pushed_at": "2019-04-24T22:52:34Z",
+        "updated_at": "2019-04-27T18:34:02Z",
+        "pushed_at": "2019-04-27T18:32:58Z",
         "git_url": "git://github.com/spack/spack.git",
         "ssh_url": "git@github.com:spack/spack.git",
         "clone_url": "https://github.com/spack/spack.git",
         "svn_url": "https://github.com/spack/spack",
         "homepage": "https://spack.io",
-        "size": 54861,
-        "stargazers_count": 931,
-        "watchers_count": 931,
+        "size": 54647,
+        "stargazers_count": 941,
+        "watchers_count": 941,
         "language": "Python",
         "has_issues": true,
         "has_projects": true,
         "has_downloads": true,
         "has_wiki": true,
         "has_pages": true,
-        "forks_count": 634,
+        "forks_count": 636,
         "mirror_url": null,
         "archived": false,
         "disabled": false,
-        "open_issues_count": 1259,
+        "open_issues_count": 1280,
         "license": {
             "key": "other",
             "name": "Other",
@@ -94,9 +94,9 @@
             "url": null,
             "node_id": "MDc6TGljZW5zZTA="
         },
-        "forks": 634,
-        "open_issues": 1259,
-        "watchers": 931,
+        "forks": 636,
+        "open_issues": 1280,
+        "watchers": 941,
         "default_branch": "develop",
         "organization": {
             "login": "spack",
@@ -118,7 +118,7 @@
             "type": "Organization",
             "site_admin": false
         },
-        "network_count": 634,
-        "subscribers_count": 81
+        "network_count": 636,
+        "subscribers_count": 82
     }
 ]
